@@ -1,0 +1,106 @@
+#center {
+    background: linear-gradient( #ffa500,#fff,#7cfc00);
+}
+
+#center__main__text {
+    
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
+.ib {
+    padding: 19px 60px 0 60px;
+    width: 50%;
+}
+
+.para1 {
+    text-align: left;
+}
+
+.flex1{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#main__image{
+    width: 800px;
+    height: auto;
+}
+
+#image2{
+    margin: 10px 55px 0 190px;
+}
+
+
+#imag2{
+    display: flex;
+    flex-direction: column;
+    padding: 100px 0px 60px 60px;
+}
+
+#table{
+    width: 30%;
+    border-collapse: collapse;
+}
+
+.hover:hover{
+    color: blue;
+}
+
+#image3{
+    width: 800px;
+}
+
+#other__images{
+    padding: 15px 0 0 50px ;
+}
+
+#main__text{
+    font-size: 140%;
+}
+
+#article__layout{
+    margin-top: 30px;
+}
+
+#doctors__text{
+    font-size: 130%;
+}
+
+#more__info{
+    text-decoration: none;
+    color:black;
+}
+
+#more__info:hover{
+    color: blue;
+}
+
+.table{
+    width: 600px;
+    padding: 0 60px 0 120px;
+}
+
+#table__content{
+    width: 400px;
+    border-collapse: collapse;   
+}
+
+tr,tr {
+    text-align: center;
+}
+
+#Thankyou__image{
+    padding: 0 40px 0 40px;
+}
+
+#Thankyou__text{
+    padding: 0 40px 0 40px;
+    font-size: 120%;
+}
+
